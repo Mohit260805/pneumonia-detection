@@ -2,3 +2,7 @@ streamlit
 tensorflow
 pillow
 numpy
+keras
+opencv-python
+matplotlib
+scikit-learn
