@@ -80,7 +80,7 @@ Dataset/
 └── Test/
     ├── NORMAL/
     └── PNEUMONIA/
-
+```
 Used for CNN Model
 
 [https://www.kaggle.com/datasets/umitka/chest-x-ray-balanced]
@@ -89,8 +89,6 @@ Classes:
 
 - NORMAL
 - PNEUMONIA
-```
-
 ---
 
 ## 🚀 Installation
