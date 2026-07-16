@@ -26,18 +26,6 @@ The project is developed using **TensorFlow**, **Keras**, and **Python**, and ca
 ```
 Pneumonia-Detection/
 │
-├── Train/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
-│
-├── Validation/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
-│
-├── Test/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
-│
 ├── pneumonia_model.keras
 │
 ├── app.py
@@ -92,6 +80,15 @@ Dataset/
 └── Test/
     ├── NORMAL/
     └── PNEUMONIA/
+
+Used for CNN Model
+
+(https://www.kaggle.com/datasets/umitka/chest-x-ray-balanced)
+
+Classes:
+
+- NORMAL
+- PNEUMONIA
 ```
 
 ---
