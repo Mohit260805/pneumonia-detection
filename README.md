@@ -83,7 +83,7 @@ Dataset/
 
 Used for CNN Model
 
-(https://www.kaggle.com/datasets/umitka/chest-x-ray-balanced)
+[https://www.kaggle.com/datasets/umitka/chest-x-ray-balanced]
 
 Classes:
 
